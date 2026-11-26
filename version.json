@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "build_number": 4,
-  "download_url": "https://github.com/adrianodeoliveiralima2-lab/treino-pro-updates/releases/download/v2.2.0/Treino-Pro-2.2.apk",
-  "changelog": "Nova versão disponível. Teste do sistema de atualização automática.",
+  "version": "3.0.0",
+  "build_number": 5,
+  "download_url": "https://github.com/adrianodeoliveiralima2-lab/treino-pro-updates/releases/download/v3.0.0/Treino-Pro-3.0.apk",
+  "changelog": "Versão de teste: biblioteca com 100 exercícios, pesquisa e favoritos, modelos de fichas, novo painel, calendário, backup e organizador local. Vídeos por pesquisa externa.",
   "mandatory": false
 }
