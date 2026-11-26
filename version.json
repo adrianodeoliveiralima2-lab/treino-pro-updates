@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "build_number": 5,
-  "download_url": "https://github.com/adrianodeoliveiralima2-lab/treino-pro-updates/releases/download/v3.0.0/Treino-Pro-3.0.apk",
-  "changelog": "Versão de teste: biblioteca com 100 exercícios, pesquisa e favoritos, modelos de fichas, novo painel, calendário, backup e organizador local. Vídeos por pesquisa externa.",
+  "version": "3.1.0",
+  "build_number": 6,
+  "download_url": "https://github.com/adrianodeoliveiralima2-lab/treino-pro-updates/releases/download/v3.1.0/Treino-Pro-3.1.apk",
+  "changelog": "Biblioteca visual com 136 fotografias, animações em 68 exercícios, reprodução, pausa, zoom e referências de vídeos. Melhorias no carregamento das imagens.",
   "mandatory": false
 }
